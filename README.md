@@ -15,8 +15,6 @@
   <a href="https://www.linkedin.com/in/akshay-tiwari-91a0b0398/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="https://medium.com/@akkitiw"><img src="https://skillicons.dev/icons?i=medium" height="45"/></a>
   <a href="https://dev.to/akshay_c7df93c5deeed0d3ea"><img src="https://skillicons.dev/icons?i=devto" height="45"/></a>
-  
-      <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
 </p>
 
 ---
