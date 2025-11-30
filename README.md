@@ -12,16 +12,16 @@
 <!-- Social Icons -->
 <p align="center">
   <a href="https://your-portfolio-link.com"><img src="https://skillicons.dev/icons?i=web" height="45"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://medium.com/@yourusername"><img src="https://skillicons.dev/icons?i=medium" height="45"/></a>
-  <a href="https://dev.to/yourusername"><img src="https://skillicons.dev/icons?i=devto" height="45"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
-  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+  <a href="https://www.linkedin.com/in/akshay-tiwari-91a0b0398/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://medium.com/@akkitiw"><img src="https://skillicons.dev/icons?i=medium" height="45"/></a>
+  <a href="https://dev.to/akshay_c7df93c5deeed0d3ea"><img src="https://skillicons.dev/icons?i=devto" height="45"/></a>
+  
+      <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
 </p>
 
 ---
 
-## 🚀 Some Tools I Have Used and Learned
+## 🛠️ Tools That I Have Used
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,python,cpp,js,react,vue,html,bootstrap,css,mongodb,mysql,nodejs,php,laravel,flutter,docker,aws,linux,figma,git" height="50"/>
