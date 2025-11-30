@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 -->
 Some of the tools that I've worked on:
 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-            <i class="devicon-pytorch-original colored"></i>
+  <i class="devicon-pytorch-original colored"></i>
           
-            <i class="devicon-python-plain colored"></i>
+  <i class="devicon-python-plain colored"></i>
           
-            <i class="devicon-tensorflow-original colored"></i>
+  <i class="devicon-tensorflow-original colored"></i>
           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
           
