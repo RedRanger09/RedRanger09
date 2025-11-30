@@ -1,4 +1,16 @@
 ## Hi there 👋
+<head>
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</head>
+<body>
+   <i class="devicon-pytorch-original colored"></i>
+          
+  <i class="devicon-python-plain colored"></i>
+          
+  <i class="devicon-tensorflow-original colored"></i>
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+</body>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
@@ -20,11 +32,5 @@ Some of the tools that I've worked on:
 
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-  <i class="devicon-pytorch-original colored"></i>
-          
-  <i class="devicon-python-plain colored"></i>
-          
-  <i class="devicon-tensorflow-original colored"></i>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+ 
           
