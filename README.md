@@ -12,7 +12,7 @@
 <!-- Social Icons -->
 <p align="center">
   <a href="https://your-portfolio-link.com"><img src="https://skillicons.dev/icons?i=web" height="45"/></a>
-  <a href="https://https://www.linkedin.com/in/akshay-t-91a0b0398"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://www.linkedin.com/in/akshay-t-91a0b0398/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="https://medium.com/@akkitiw"><img src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png" height="45"/></a>
   <a href="https://dev.to/akshay_c7df93c5deeed0d3ea"><img src="https://skillicons.dev/icons?i=devto" height="45"/></a>
 </p>
